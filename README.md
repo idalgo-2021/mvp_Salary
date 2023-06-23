@@ -2,7 +2,7 @@
 Prototype of HR and Payroll programm (for make a requirements for solution)
 
 * Конфигурация 'Прототип учётной системы для целей HR and Payroll' (languages - RUS\ENG). 
-* Программа создана на основе учебной конфигурации Сущени В.В. "Решение расчётных задач".
+* Программа создана на основе учебных материалов Сущени В.В. "Решение расчётных задач".
 
 ![Capture1](https://user-images.githubusercontent.com/82776515/180611066-bf4e72a9-0f90-49dc-bac2-04e50f0a28b5.JPG)
 ![Capture2](https://user-images.githubusercontent.com/82776515/180611069-7b096d9b-7607-43fd-ae96-6d93cb616bc3.JPG)
